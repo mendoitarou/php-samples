@@ -9,4 +9,4 @@ PHP 7.4
 ## precautions
 Supported language is Japanese only.
 
-© Copyright 2022 mendoitarou_ All Right Reserved.
+© Copyright 2022 mendoitarou_
